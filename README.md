@@ -14,7 +14,8 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://user-images.githubusercontent.com/94174536/189705320-bc349700-c6e7-4f9a-ae9c-d145145a7eba.png)
+
 
 ## DESIGN STEPS
 
@@ -47,6 +48,9 @@ Predict the new sample data.
 
 ## PROGRAM
 ```
+NAME: Kiran J
+Ref No: 212221240022
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.models import Sequential
@@ -262,7 +266,8 @@ print(le.inverse_transform(x_single_prediction))
 ```
 ## Dataset Information
 
-![OUTPUT](data.img.jpg)
+![image](https://user-images.githubusercontent.com/94174536/189704171-e9ba4c62-7bde-4a46-ab87-bf171f928d0c.png)
+
 
 ## OUTPUT
 
